@@ -1,0 +1,14 @@
+/home/wanbess/wanbessbd/build/CMakeFiles/install/strip.dir
+/home/wanbess/wanbessbd/build/CMakeFiles/install/local.dir
+/home/wanbess/wanbessbd/build/CMakeFiles/install.dir
+/home/wanbess/wanbessbd/build/CMakeFiles/list_install_components.dir
+/home/wanbess/wanbessbd/build/CMakeFiles/rebuild_cache.dir
+/home/wanbess/wanbessbd/build/CMakeFiles/edit_cache.dir
+/home/wanbess/wanbessbd/build/CMakeFiles/WBDB.dir
+/home/wanbess/wanbessbd/build/lib/CMakeFiles/install/strip.dir
+/home/wanbess/wanbessbd/build/lib/CMakeFiles/install/local.dir
+/home/wanbess/wanbessbd/build/lib/CMakeFiles/install.dir
+/home/wanbess/wanbessbd/build/lib/CMakeFiles/list_install_components.dir
+/home/wanbess/wanbessbd/build/lib/CMakeFiles/rebuild_cache.dir
+/home/wanbess/wanbessbd/build/lib/CMakeFiles/edit_cache.dir
+/home/wanbess/wanbessbd/build/lib/CMakeFiles/math.dir

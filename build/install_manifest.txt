@@ -1,0 +1,4 @@
+/home/wanbess/wanbessbd/bin/bin/WBDB
+/home/wanbess/wanbessbd/bin/include/configure.h
+/home/wanbess/wanbessbd/bin/lib/libmath.a
+/home/wanbess/wanbessbd/bin/include/math.h

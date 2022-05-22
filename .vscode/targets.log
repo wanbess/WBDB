@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun May 22 17:57:35 2022
+# Make data base, printed on Sun May 22 20:43:25 2022
 
 # Variables
 
@@ -55,7 +55,7 @@ GOPATH = /home/wanbess/golang
 # environment
 VSCODE_LOG_STACK = false
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-237b0a3c-64c6-43c2-894b-9eac52cfe89e.sock
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-c60f7a2f-f791-40da-b13a-491bc7a846b4.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # automatic
@@ -67,7 +67,7 @@ PWD = /home/wanbess/wanbessbd
 # default
 .LOADED := 
 # environment
-WSL_INTEROP = /run/WSL/14982_interop
+WSL_INTEROP = /run/WSL/23658_interop
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
@@ -75,7 +75,7 @@ HOME = /home/wanbess
 # environment
 LOGNAME = wanbess
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
@@ -153,9 +153,9 @@ WSL_DISTRO_NAME = Ubuntu
 
 # Directories
 
-# . (device 2064, inode 52421): 12 files, no impossibilities.
+# . (device 2064, inode 52421): 13 files, no impossibilities.
 
-# 12 files, no impossibilities in 1 directories.
+# 13 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -205,12 +205,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 20 / storage = 182 B / avg = 9 B
-# current buf: size = 8162 B / used = 182 B / count = 20 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 21 / storage = 187 B / avg = 8 B
+# current buf: size = 8162 B / used = 187 B / count = 21 / avg = 8 B
 
-# strcache performance: lookups = 23 / hit rate = 13%
+# strcache performance: lookups = 24 / hit rate = 12%
 # hash-table stats:
-# Load=20/8192=0%, Rehash=0, Collisions=1/23=4%
-# Finished Make data base on Sun May 22 17:57:35 2022
+# Load=21/8192=0%, Rehash=0, Collisions=1/24=4%
+# Finished Make data base on Sun May 22 20:43:25 2022
 
  

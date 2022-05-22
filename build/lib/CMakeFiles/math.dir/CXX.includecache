@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wanbess/wanbessbd/lib/inc/math.h
+
+/home/wanbess/wanbessbd/lib/src/math.cc
+../inc/math.h
+/home/wanbess/wanbessbd/lib/inc/math.h
+
