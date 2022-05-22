@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/wanbess/wanbessbd'
+make: Leaving directory '/home/wanbess/wanbessbd'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

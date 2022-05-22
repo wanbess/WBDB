@@ -1,0 +1,1 @@
+#define WBDB_VERSION_MAJOR 1
