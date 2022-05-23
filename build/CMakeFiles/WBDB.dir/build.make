@@ -79,7 +79,7 @@ WBDB_EXTERNAL_OBJECTS =
 
 WBDB: CMakeFiles/WBDB.dir/src/main.cc.o
 WBDB: CMakeFiles/WBDB.dir/build.make
-WBDB: lib/libmath.a
+WBDB: lib/libmath.so
 WBDB: CMakeFiles/WBDB.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wanbess/wanbessbd/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable WBDB"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/WBDB.dir/link.txt --verbose=$(VERBOSE)

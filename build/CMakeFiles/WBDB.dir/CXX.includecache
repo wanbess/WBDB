@@ -6,3 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/home/wanbess/wanbessbd/include/main.h
+
+/home/wanbess/wanbessbd/lib/inc/math.h
+
+/home/wanbess/wanbessbd/src/main.cc
+iostream
+-
+algorithm
+-
+../include/main.h
+/home/wanbess/wanbessbd/include/main.h
+../lib/inc/math.h
+/home/wanbess/wanbessbd/lib/inc/math.h
+math.h
+/home/wanbess/wanbessbd/src/math.h
+

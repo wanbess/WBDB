@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/WBDB.dir/src/main.cc.o  -o WBDB   -L/home/wanbess/wanbessbd/lib/inc  -Wl,-rpath,/home/wanbess/wanbessbd/lib/inc: lib/libmath.a 
+/usr/bin/c++     CMakeFiles/WBDB.dir/src/main.cc.o  -o WBDB   -L/home/wanbess/wanbessbd/lib/inc  -Wl,-rpath,/home/wanbess/wanbessbd/lib/inc:/home/wanbess/wanbessbd/build/lib: lib/libmath.so 

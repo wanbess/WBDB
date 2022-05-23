@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/math.dir/src/math.cc.o"
-  "libmath.a"
   "libmath.pdb"
+  "libmath.so"
 )
 
 # Per-language clean rules from dependency scanning.

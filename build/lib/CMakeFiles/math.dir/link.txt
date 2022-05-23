@@ -1,2 +1,1 @@
-/usr/bin/ar qc libmath.a  CMakeFiles/math.dir/src/math.cc.o
-/usr/bin/ranlib libmath.a
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libmath.so -o libmath.so CMakeFiles/math.dir/src/math.cc.o  -Wl,-rpath,::::::::::::::::::::::::::::::: 
